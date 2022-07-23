@@ -15,8 +15,6 @@ A platformer with an unusual mechanic based around utilizing the mouse. Contains
 
 Instructions appear in-game.
 
-<sup><sub>I do not own the music or character art assets.</sub></sup>
-
 * * *
 
 ### Lightning Blitz
