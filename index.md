@@ -5,6 +5,8 @@ layout: default
 ### Quantum Cycle
 (Sole Developer)
 
+![Quantum Cycle](https://i.imgur.com/fvQrZhi.png)
+
 A platformer featuring a unique mechanic based around utilizing the mouse. Contains over 40 levels.
 
 [Click here](https://skyironsword.itch.io/quantum-cycle) to download Quantum Cycle.
