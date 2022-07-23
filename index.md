@@ -15,7 +15,7 @@ A platformer with an unusual mechanic based around utilizing the mouse. Contains
 
 Instructions appear in-game.
 
-<!-- <sup><sub>Non-profit product. Music is  under the Fair Use Act.</sub></sup> -->
+<!-- <sup><sub>Non-profit product. Music used fairly under the Fair Use Act.</sub></sup> -->
 
 * * *
 
