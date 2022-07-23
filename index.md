@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Daniel Yin's Portfolio
+description: Featured projects and other works
 ---
 
 ### Quantum Cycle
