@@ -35,7 +35,7 @@ Instructions appear on the left side of the screen. Click the play button in the
 
 ![State of Emergency](https://i.imgur.com/I8Huiqq.png)
 
-A bullet hell game with a strategic upgrade system.
+A more in-depth bullet hell game containing a strategic branching upgrade system.
 
 [Click here](https://drive.google.com/file/d/1OecxYCvix6kI50GtPv5G9H_Vgl67I36e/view?usp=sharing) to download State of Emergency.
 
