@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Lightning Blitz
+### Lightning Blitz
 (Sole Developer)
 
 ![Lightning Blitz](https://imgur.com/a/EWszc7Y)
@@ -13,7 +13,9 @@ A short bullet hell game inspired by popular shoot 'em up games like Touhou and 
 
 Instructions appear on the left side of the screen. Click the play button in the top left corner to start or restart the game.
 
-#Quantum Cycle
+* * *
+
+### Quantum Cycle
 (Sole Developer)
 
 A platformer featuring a unique mechanic based around utilizing the mouse. Contains over 40 levels.
