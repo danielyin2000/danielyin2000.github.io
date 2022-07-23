@@ -5,7 +5,10 @@ layout: default
 This is a test.
 
 # Lightning Blitz
-[Link to the game](https://editor.p5js.org/danielyin2000/full/qas4yIYm7)...
+(Sole Developer)
+A short bullet hell game inspired by popular shoot 'em up games like Touhou and Ikaruga.
+[Click here](https://editor.p5js.org/danielyin2000/sketches/qas4yIYm7) to play Lightning Blitz in browser.
+Instructions appear on the left side of the screen. Click the play button to start or restart the game.
 
 <!--
 
