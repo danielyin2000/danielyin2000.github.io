@@ -5,6 +5,8 @@ layout: default
 # Lightning Blitz
 (Sole Developer)
 
+![Lightning Blitz](https://imgur.com/a/EWszc7Y)
+
 A short bullet hell game inspired by popular shoot 'em up games like Touhou and Ikaruga.
 
 [Click here](https://editor.p5js.org/danielyin2000/sketches/qas4yIYm7) to play Lightning Blitz in browser.
