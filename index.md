@@ -6,6 +6,7 @@ This is a test.
 
 # Lightning Blitz
 [Link to the game](https://editor.p5js.org/danielyin2000/full/qas4yIYm7)...
+
 <!--
 
 Doing this makes a janky box appear that tries to contain the whole website
