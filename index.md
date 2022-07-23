@@ -2,8 +2,6 @@
 layout: default
 ---
 
-This is a test.
-
 # Lightning Blitz
 (Sole Developer)
 
@@ -11,7 +9,16 @@ A short bullet hell game inspired by popular shoot 'em up games like Touhou and 
 
 [Click here](https://editor.p5js.org/danielyin2000/sketches/qas4yIYm7) to play Lightning Blitz in browser.
 
-Instructions appear on the left side of the screen. Click the play button to start or restart the game.
+Instructions appear on the left side of the screen. Click the play button in the top left corner to start or restart the game.
+
+#Quantum Cycle
+(Sole Developer)
+
+A platformer featuring a unique mechanic based around utilizing the mouse. Contains over 40 levels.
+
+[Click here](https://skyironsword.itch.io/quantum-cycle) to download Quantum Cycle.
+
+Instructions appear in-game.
 
 <!--
 
