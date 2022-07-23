@@ -2,10 +2,21 @@
 layout: default
 ---
 
+### Quantum Cycle
+(Sole Developer)
+
+A platformer featuring a unique mechanic based around utilizing the mouse. Contains over 40 levels.
+
+[Click here](https://skyironsword.itch.io/quantum-cycle) to download Quantum Cycle.
+
+Instructions appear in-game.
+
+* * *
+
 ### Lightning Blitz
 (Sole Developer)
 
-![Lightning Blitz](https://i.imgur.com/sCGA5g9.png)
+![Lightning Blitz](https://i.imgur.com/zRZOiSp.png)
 
 A short bullet hell game inspired by popular shoot 'em up games like Touhou and Ikaruga.
 
@@ -15,12 +26,14 @@ Instructions appear on the left side of the screen. Click the play button in the
 
 * * *
 
-### Quantum Cycle
-(Sole Developer)
+### State of Emergency
+(Programmer & Lead Designer)
 
-A platformer featuring a unique mechanic based around utilizing the mouse. Contains over 40 levels.
+![State of Emergency](https://i.imgur.com/I8Huiqq.png)
 
-[Click here](https://skyironsword.itch.io/quantum-cycle) to download Quantum Cycle.
+A bullet hell game with a strategic upgrade system.
+
+[Click here](https://drive.google.com/file/d/1OecxYCvix6kI50GtPv5G9H_Vgl67I36e/view?usp=sharing) to download State of Emergency.
 
 Instructions appear in-game.
 
